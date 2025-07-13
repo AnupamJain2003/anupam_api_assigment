@@ -42,7 +42,7 @@ This project implements two REST APIs for the KPA form data assignment using Dja
    venv\Scripts\activate     # Windows
    ```
 
-3. Install dependencies:
+3. Install dependencies: pip install -r requirements.txt
 
 4. Setup PostgreSQL database and update your `settings.py` with correct DB credentials.
 
