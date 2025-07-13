@@ -31,10 +31,9 @@ This project implements two REST APIs for the KPA form data assignment using Dja
 1. Clone the repo:
 
    ```bash
-   git clone <repo-url>
-   cd <repo-folder>
+   git clone https://github.com/AnupamJain2003/anupam_api_assigment
+   cd kpa_project
    ```
-
 2. Create and activate a virtual environment:
 
    ```bash
@@ -44,10 +43,6 @@ This project implements two REST APIs for the KPA form data assignment using Dja
    ```
 
 3. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 4. Setup PostgreSQL database and update your `settings.py` with correct DB credentials.
 
